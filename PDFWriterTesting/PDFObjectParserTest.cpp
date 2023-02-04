@@ -30,6 +30,7 @@ limitations under the License.
 #include "PDFTextString.h"
 
 #include <iostream>
+#include <string.h>
 #include <sstream>
 
 #include "testing/TestIO.h"
